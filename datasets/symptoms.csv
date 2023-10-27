@@ -1,0 +1,125 @@
+Name,Description
+itching,An uncomfortable sensation on the skin that prompts scratching.
+skin_rash,"Redness, inflammation, or discoloration of the skin."
+nodal_skin_eruptions,Abnormal eruptions or swelling on the skin.
+continuous_sneezing,Repetitive and involuntary expulsions of air through the nose.
+shivering,Involuntary tremors or shaking of the body.
+chills,Episodes of shivering accompanied by cold sensations and shuddering.
+joint_pain,Pain or discomfort in the joints of the body.
+stomach_pain,Pain or discomfort in the abdominal area.
+acidity,"Excess production of acid in the stomach, leading to indigestion."
+ulcers_on_tongue,Sores or lesions on the tongue.
+muscle_wasting,Loss or deterioration of muscle mass.
+vomiting,Forceful expulsion of stomach contents through the mouth.
+burning_micturition,Discomfort or pain during urination.
+spotting_ urination,Presence of blood in the urine.
+fatigue,Extreme tiredness or lack of energy.
+weight_gain,Unintentional increase in body weight.
+anxiety,"Feelings of unease, worry, or fear."
+cold_hands_and_feets,Sensation of coldness or numbness in the hands and feet.
+mood_swings,Rapid and unpredictable changes in emotions or mood.
+weight_loss,Unintentional loss of body weight.
+restlessness,Inability to stay calm or relax.
+lethargy,"Lack of energy, enthusiasm, or motivation."
+patches_in_throat,Irregular or discolored areas on the throat.
+irregular_sugar_level,Fluctuations or abnormalities in blood sugar levels.
+cough,"Expulsion of air from the lungs with a sudden, sharp sound."
+high_fever,Elevated body temperature above the normal range.
+sunken_eyes,"Concave appearance of the eyes, usually due to dehydration."
+breathlessness,Difficulty or discomfort in breathing.
+sweating,Production of perspiration from the sweat glands.
+dehydration,Lack of adequate fluids in the body.
+indigestion,Discomfort or pain in the digestive system.
+headache,Ache or pain in the head.
+yellowish_skin,Abnormal yellow discoloration of the skin.
+dark_urine,Urine that appears darker than usual.
+nausea,Feeling of sickness or queasiness.
+loss_of_appetite,Reduced desire to eat or lack of interest in food.
+pain_behind_the_eyes,Discomfort or pain located behind the eyes.
+back_pain,Discomfort or pain in the back.
+constipation,Difficulty in passing stools or infrequent bowel movements.
+abdominal_pain,Pain or discomfort in the abdominal area.
+diarrhoea,"Passing of loose, watery stools."
+mild_fever,Low-grade fever or a slightly elevated body temperature.
+yellow_urine,Urine that appears yellow or darker than usual.
+yellowing_of_eyes,Yellow discoloration of the whites of the eyes.
+acute_liver_failure,Sudden and severe liver dysfunction.
+fluid_overload,Excessive fluid accumulation in the body.
+swelling_of_stomach,Abnormal enlargement or bloating of the stomach.
+swelled_lymph_nodes,"Enlarged lymph nodes, often indicating an immune response."
+malaise,"General feeling of discomfort, illness, or unease."
+blurred_and_distorted_vision,Visual impairment characterized by unclear or distorted images.
+phlegm,"Thick, sticky mucus secreted by the respiratory passages."
+throat_irritation,Discomfort or tickling sensation in the throat.
+redness_of_eyes,Red or bloodshot appearance of the eyes.
+sinus_pressure,Feeling of fullness or pressure in the sinuses.
+runny_nose,Excessive discharge of fluid from the nose.
+congestion,Obstruction or blockage in the nasal passages or respiratory system.
+chest_pain,Discomfort or pain in the chest region.
+weakness_in_limbs,Lack of strength or reduced ability to move the limbs.
+fast_heart_rate,Rapid or increased heart rate.
+pain_during_bowel_movements,Discomfort or pain experienced while passing stools.
+pain_in_anal_region,Discomfort or pain in the area around the anus.
+bloody_stool,Passing of stools containing blood.
+irritation_in_anus,Discomfort or itching in the anal region.
+neck_pain,Pain or discomfort in the neck area.
+dizziness,Sensation of lightheadedness or unsteadiness.
+cramps,Severe and involuntary muscle contractions.
+bruising,Discoloration of the skin caused by injury or trauma.
+obesity,Excessive accumulation of body fat.
+swollen_legs,Abnormal enlargement or puffiness of the legs.
+swollen_blood_vessels,"Enlarged blood vessels, often visible under the skin."
+puffy_face_and_eyes,Swelling or puffiness of the face and eyes.
+enlarged_thyroid,Abnormal enlargement of the thyroid gland in the neck.
+brittle_nails,Fragile or easily breakable nails.
+swollen_extremities,Abnormal enlargement or swelling of the extremities (hands and feet).
+excessive_hunger,Unusually strong or increased appetite.
+extra_marital_contacts,Engagement in sexual activity outside a marital relationship.
+drying_and_tingling_lips,Sensation of dryness and tingling in the lips.
+slurred_speech,Impaired or unclear speech.
+knee_pain,Pain or discomfort in the knees.
+hip_joint_pain,Pain or discomfort in the hip joints.
+muscle_weakness,Reduced strength or power in the muscles.
+stiff_neck,Difficulty or pain while moving the neck.
+swelling_joints,Enlargement or puffiness in the joints.
+movement_stiffness,Difficulty or resistance in moving the body.
+spinning_movements,Sensations of spinning or whirling.
+loss_of_balance,Impaired ability to maintain balance or stability.
+unsteadiness,Lack of stability or a shaky or unsteady gait.
+weakness_of_one_body_side,Reduced strength or control on one side of the body.
+loss_of_smell,Impaired or complete loss of the sense of smell.
+bladder_discomfort,Discomfort or pain in the bladder region.
+foul_smell_of_urine,Unpleasant or offensive odor of urine.
+continuous_feel_of_urine,Sensation of needing to urinate frequently or constantly.
+passage_of_gases,Release of gas from the digestive system.
+internal_itching,An uncomfortable itching sensation inside the body.
+toxic_look_(typhos),Presentation of a sickly or unhealthy appearance.
+depression,Feelings of severe despondency and dejection.
+irritability,Readiness to be easily annoyed or provoked.
+muscle_pain,Pain or discomfort in the muscles.
+altered_sensorium,Changes in consciousness or awareness.
+red_spots_over_body,Small red or discolored spots on the body.
+belly_pain,Pain or discomfort in the abdomen.
+lack_of_concentration,Difficulty in focusing attention or mental effort.
+visual_disturbances,Impairment or changes in vision.
+receiving_blood_transfusion,Receiving donated blood as part of a medical procedure.
+receiving_unsterile_injections,Receiving injections that were not properly sterilized.
+coma,A state of deep unconsciousness.
+stomach_bleeding,Internal bleeding in the stomach or gastrointestinal tract.
+distention_of_abdomen,Abnormal enlargement or swelling of the abdomen.
+history_of_alcohol_consumption,Past or present habit of consuming alcohol.
+fluid_overload.1,Excessive accumulation of fluid in the body.
+blood_in_sputum,Presence of blood in the sputum or phlegm.
+prominent_veins_on_calf,Visible or bulging veins on the calf muscles.
+palpitations,Awareness or sensation of rapid or irregular heartbeats.
+painful_walking,Discomfort or pain experienced while walking.
+pus_filled_pimples,Pimples or acne lesions filled with pus.
+blackheads,Small dark bumps on the skin caused by clogged hair follicles.
+scurring,Scaly or flaky skin.
+skin_peeling,Shedding or flaking of the outer layer of the skin.
+silver_like_dusting,Presence of silver-like dust particles on the skin.
+small_dents_in_nails,Tiny depressions or pits in the nails.
+inflammatory_nails,Nails exhibiting signs of inflammation or infection.
+blister,Small fluid-filled sac or bubble on the skin.
+red_sore_around_nose,"Sore, red, or irritated skin around the nose."
+yellow_crust_ooze,Yellow-colored crust or discharge oozing from the skin.
